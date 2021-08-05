@@ -116,7 +116,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Vinit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vinc3nati&custom_title=vinc3nati's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/vinc3nati"><img alt="Vinit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vinc3nati&custom_title=vinc3nati's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
