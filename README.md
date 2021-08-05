@@ -123,7 +123,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 <p align="center">
 	<a href="mailto:vinitkansend@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/vinc3nati"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
