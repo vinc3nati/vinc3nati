@@ -8,6 +8,15 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinc3nati&label=Profile%20views&color=0e75b6&style=plastic" alt="vinc3nati" /> </p>
 
+## Daily Dev Reading Stats 😎
+
+<a href="https://app.daily.dev/vinc3nati">
+	<p align="center">
+	<img src="https://api.daily.dev/devcards/83293a56d08f49b08d950e0cd678dce6.png?r=lyu" width="400" alt="Vinit Kanse's Dev Card"/>
+	</p>
+</a>
+
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinc3nati&theme=algolia" alt="vinc3nati"  /></p>
 
