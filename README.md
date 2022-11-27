@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Vinit Kanse <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Aspiring+Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Making+Frontend+Look+Cooler;Exploring+new+things+everyday;Making+Frontend+Look+Cool;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Giving Lives to designs | Frontend Stuffs</h4>
@@ -63,8 +63,8 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="Tailwing" src="https://img.shields.io/badge/TailwindCss-%23563D7C.svg?style=flat&logo=tailwindcss&logoColor=white"/>
   </a>
 </p>
 
@@ -73,7 +73,7 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%e749a0.svg?style=flat&logo=mongodb&logoColor=white"></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+    <a href="https://www.netlify.com"><img alt="Netlify" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
