@@ -136,9 +136,8 @@
 <p align="center">
 	<a href="mailto:vinitkansend@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/vinc3nati"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/vinit-kanse-96838b184/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.quora.com/profile/Vinit-Kanse"><img src="https://img.icons8.com/windows/50/000000/quora.png" alt=
-                                                           "quora"/></a>
-	
+	<a href="https://www.linkedin.com/in/vinc3nati"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/vinc3nati"><img src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png" alt="Twitter"/></a>
+		
 </p>
 
