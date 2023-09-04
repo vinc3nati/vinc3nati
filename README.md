@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Making+Frontend+Look+Cooler;Exploring+new+things+everyday;Making+Frontend+Look+Cool;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Giving Lives to designs | Frontend Stuffs</h4>
+<h4 align="center">Giving Lives to designs | Frontend Stuff</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinc3nati&label=Profile%20views&color=0e75b6&style=plastic" alt="vinc3nati" /> </p>
 
