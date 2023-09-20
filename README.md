@@ -64,8 +64,21 @@
   </a> 
    &emsp;
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="Tailwing" src="https://img.shields.io/badge/TailwindCss-%23563D7C.svg?style=flat&logo=tailwindcss&logoColor=white"/>
+    <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCss-%23563D7C.svg?style=flat&logo=tailwindcss&logoColor=white"/>
   </a>
+	&emsp;
+	 <a href="https://react.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"/>
+  </a>
+&emsp;
+   <a href="https://redux.js.org/" target="_blank"> 
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-232370ED.svg?logo=redux&logoColor=white"/>
+  </a>
+	&emsp;
+    <a href="https://nextjs.org/" target="_blank"> 
+    <img alt="Next" src="https://img.shields.io/badge/Nextjs-000000?logo=next.js&logoColor=white"/>
+  </a>
+	
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -121,14 +134,6 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/vinc3nati"><img alt="Vinit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vinc3nati&custom_title=vinc3nati's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
